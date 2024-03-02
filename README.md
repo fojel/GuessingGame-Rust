@@ -16,13 +16,13 @@ The guessing game generates a random number between 1 and 100, and the user's ta
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/guessing_game.git
+    git clone https://github.com/fojel/GuessingGame-Rust.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd guessing_game
+    cd GuessingGame-Rust
     ```
 
 3. Build the project:
